@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "author": "Muteplayer#5659",
+        "name": "Monet AMOLED",
+        "version": "0.3.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "input_background": -16777216,
+        "active_channel": -16316665,
+        "statusbar": -16777216,
+        "blocked_bg": -16316665,
+        "mention_highlight": 469235703
+    },
+    "colors": {
+        "brand": "system_accent1_300",
+        "brand_500": "system_accent1_100",
+        "brand_500_alpha_20": "system_accent1_700",
+        
+        "brand_new": "system_accent1_300",
+        "brand_new_160": "system_accent1_300",
+        "brand_new_260": "system_accent1_300",
+        "brand_new_500": "system_accent1_300",
+        "brand_new_530": "system_accent1_300",
+        
+        "link": "system_accent1_200",
+        "link_500": "system_accent1_200",
+        
+        "primary_500": -16777216,
+        "primary_600": -16777216,
+        "primary_630": -16777216,
+        "primary_660": -16777216,
+        "primary_700": -16777216,
+        "primary_800": -16777216,
+        "primary_dark_600": -16777216,
+        "primary_dark_630": -16777216,
+        "primary_dark_660": -16777216,
+        "primary_dark_700": -16777216,
+        "primary_dark_800": -16777216,
+        
+        "primary_dark_330": "system_accent1_100"
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
